@@ -1,6 +1,7 @@
 # sinhala_songs_search_engine
 This repository includes the frontend impelementation and the song corpus of the Sinhala songs search engine.
 # Directories
+* images - sample query results
 * search-engine - frontend implementation of the Sinhala songs search engine
 * songs-lyrics.bulk - extracted and processed songs corpus from web
 # Quick start instructions
